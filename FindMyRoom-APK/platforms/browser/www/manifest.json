@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "FindMyRoom",
+  "short_name": "FindMyRoom",
+  "version": "io.cordova.hellocordova",
+  "description": "Aplication to find rooms near to you university.",
+  "author": "Juan Diego López Triana",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#2A9134"
+}

@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Juancho\\PROYECTOS\\PROYECTOS\\CORDOVA\\FindMyRoom\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Juancho\\PROYECTOS\\PROYECTOS\\CORDOVA\\FindMyRoom\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,2,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,55,-1",
+                        "endColumns": "-1,47,-1",
+                        "endOffsets": "-1,98,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,167",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "114,162,221"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Juancho\\PROYECTOS\\PROYECTOS\\FindMyRoom\\FindMyRoom - APK\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Juancho\\PROYECTOS\\PROYECTOS\\FindMyRoom\\FindMyRoom - APK\\platforms\\android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "162,55,103",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "221,98,157"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,167",
+                        "endColumns": "63,47,58",
+                        "endOffsets": "114,162,221"
+                    }
+                }
+            ]
+        }
+    ]
+}
