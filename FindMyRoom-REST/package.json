@@ -1,0 +1,25 @@
+{
+  "name": "findmyroom-api",
+  "version": "1.0.0",
+  "description": "API REST for FindMyRoom",
+  "main": "index.js",
+  "scripts": {
+    "start": "MONGODB=mongodb://admin:admin@ds119820.mlab.com:19820/findmyroom-db node index.js",
+    "dev": "nodemon index.js", 
+    "lint": "standard",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juandlopeztriana@gmail.com <juandlopeztriana@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "nodemon": "^1.17.3",
+    "standard": "^11.0.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15"
+  }
+}
